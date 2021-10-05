@@ -20,4 +20,4 @@ If you don't know how to get your Database id, check the **Where can I find my d
 
 ## See it in action!
 
-https://user-images.githubusercontent.com/30603437/124970496-e2e1f800-e01f-11eb-9055-a93a25d8689a.mp4
+https://user-images.githubusercontent.com/30603437/136004486-d010c41e-d7e6-409a-bdb5-ec63a3546888.mp4
